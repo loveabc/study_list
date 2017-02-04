@@ -1,0 +1,5 @@
+git add file
+git commit file -m "注释" 
+git push origin master  //向远程仓库推送修改
+git pull  //从远程仓库更新文件
+git clone //从远程仓库下载文件
